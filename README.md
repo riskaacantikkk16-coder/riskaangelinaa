@@ -6,7 +6,7 @@ Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & 
 * **Nama Lengkap:** [Riskaenjelina]
 * **Kelas:** X PPLG
 * **No. Absen:** [31]
-* ## Deskripsi Aplikasi [Jelaskan secara singkat aplikasi apa yang kalian buat, fungsi utamanya untuk apa, dan fitur apa saja yang ada di dalamnya.] 
+* ## Deskripsi Aplikasi [saya membuat aplikasi ini agar saya tau membayar parkir disetiap waktu itu berapa, jadi dicodingan ada berapa lama waktu kita parkir lalu dikalikan sama tarif parkirnya. Dan jika uang yang diberikan kelebihan ada pengembalian uang juga sesuai uang yang dia dapat dari waktu parkir tersebut.] 
 ## Daftar File
 * `riska_parkiranku.c`  : Kode program utama menggunakan bahasa C.
 * `riska_parkiranku.py` : Kode program utama menggunakan bahasa Python.
